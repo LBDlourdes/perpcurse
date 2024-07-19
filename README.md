@@ -1,2 +1,1 @@
-# perpcurse
-repositorio de prueba c2
+proyecto prepcurse
